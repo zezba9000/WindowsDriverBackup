@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37906.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsDriverBackup", "WindowsDriverBackup\WindowsDriverBackup.csproj", "{31E685DA-A246-4BCC-ABC0-F10230D85A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E685DA-A246-4BCC-ABC0-F10230D85A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E685DA-A246-4BCC-ABC0-F10230D85A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E685DA-A246-4BCC-ABC0-F10230D85A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E685DA-A246-4BCC-ABC0-F10230D85A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BBE35A-88A1-4FC4-9343-915C70832413}
+	EndGlobalSection
+EndGlobal
